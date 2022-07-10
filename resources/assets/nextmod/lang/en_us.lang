@@ -1,0 +1,185 @@
+itemGroup.NextMod=Next Mod
+item.hang_glider.name=Hang Glider
+
+item.amethyst_ingot.name=Amethyst Ingot
+item.amethyst_stick.name=Amethyst Stick
+item.amethyst_sword.name=Amethyst Sword
+item.amethyst_pickaxe.name=Amethyst Pickaxe
+item.amethyst_shovel.name=Amethyst Shovel
+item.amethyst_axe.name=Amethyst Axe
+item.amethyst_helmet.name=Amethyst Helmet
+item.amethyst_chestplate.name=Amethyst Chestplate
+item.amethyst_leggings.name=Amethyst Leggings
+item.amethyst_boots.name=Amethyst Boots
+
+item.titane_ingot.name=Titane Ingot
+item.titane_stick.name=Titane Stick
+item.titane_sword.name=Titane Sword
+item.titane_pickaxe.name=Titane Pickaxe
+item.titane_shovel.name=Titane Shovel
+item.titane_axe.name=Titane Axe
+item.titane_helmet.name=Titane Helmet
+item.titane_chestplate.name=Titane Chestplate
+item.titane_leggings.name=Titane Leggings
+item.titane_boots.name=Titane Boots
+
+item.legendarium_ingot.name=Legendarium Ingot
+item.legendarium_stick.name=Legendarium Stick
+item.legendarium_sword.name=Legendarium Sword
+item.legendarium_pickaxe.name=Legendarium Pickaxe
+item.legendarium_shovel.name=Legendarium Shovel
+item.legendarium_axe.name=Legendarium Axe
+item.legendarium_helmet.name=Legendarium Helmet
+item.legendarium_chestplate.name=Legendarium Chestplate
+item.legendarium_leggings.name=Legendarium Leggings
+item.legendarium_boots.name=Legendarium Boots
+
+item.ultimate_ingot.name=Ultimate Ingot
+item.ultimate_stick.name=Ultimate Stick
+item.ultimate_sword.name=Ultimate Sword
+item.ultimate_pickaxe.name=Ultimate Pickaxe
+item.ultimate_shovel.name=Ultimate Shovel
+item.ultimate_axe.name=Ultimate Axe
+item.ultimate_helmet.name=Ultimate Helmet
+item.ultimate_chestplate.name=Ultimate Chestplate
+item.ultimate_leggings.name=Ultimate Leggings
+item.ultimate_boots.name=Ultimate Boots
+
+item.energium.name=Energium
+
+item.dynamite.name=Dynamite
+item.big_dynamite.name=Big Dynamite
+item.ninja_dynamite.name=Ninja Dynamite
+item.ultimate_dynamite.name=Ultimate Dynamite
+
+item.dopant_stick.name=Dopant Stick
+item.power_stick.name=Power Stick
+item.super_stick.name=Super Stick
+item.flash_stick.name=Flash Stick
+item.damage_stick.name=Damage Stick
+item.jump_stick.name=Jump Stick
+item.hyper_jump_stick.name=Hyper Jump Stick
+
+item.sulfuric_water_bucket.name=Sulfuric Water Bucket
+item.angelic_water_bucket.name=Angelic Water Bucket
+
+item.unclaim_finderI.name=Unclaim Finder I
+item.unclaim_finderII.name=Unclaim Finder II
+item.unclaim_finderIII.name=Unclaim Finder III
+
+item.potion_launcher.name=Potion Launcher
+
+item.legendarium_core.name=Legendarium Core
+item.guardian_stone.name=Guardian Stone
+item.compressed_legendarium.name=Compressed Legendarium
+item.wings.name=Wings
+
+item.heal_orb.name=Heal Orb
+item.speed_orb.name=Speed Orb
+item.strenght_orb.name=Strenght Orb
+item.jump_orb.name=Jump Orb
+
+item.legendarium_upgrade.name=Legendarium Upgrade
+item.diamond_string.name=Diamond String
+item.legendarium_apple.name=Legendarium Apple
+
+item.slimy_helmet.name=Slimy Helmet
+item.scuba_helmet.name=Scuba Helmet
+item.hood_helmet.name=Hood Helmet
+
+item.travel_chestplate.name=Travel Chestplate
+item.travel_leggins.name=Travel Leggings
+item.travel_boots.name=Travel Boots
+
+item.void_stone.name=Void Stone
+
+item.sickness_potion.name=Sickness Potion
+item.web_potion.name=Web Potion
+
+item.wither_fragment.name=Wither Fragment
+
+item.switch_arrow.name=Switch Arrow
+item.poison_arrow.name=Poison Arrow
+item.wither_arrow.name=Wither Arrow
+item.slowness_arrow.name=Slowness Arrow
+
+item.infernal_knocker.name=Infernal Knocker
+
+item.amethyst_broadsword.name=Amethyst Broadsword
+item.titane_broadsword.name=Titane Broadsword
+item.legendarium_broadsword.name=Legendarium Broadsword
+
+item.amethyst_fastsword.name=Amethyst Fastsword
+item.titane_fastsword.name=Titane Fastsword
+item.legendarium_fastsword.name=Legendarium Fastsword
+
+item.amethyst_hammer.name=Amethyst Hammer
+item.titane_hammer.name=Titane Hammer
+item.legendarium_hammer.name=Legendarium Hammer
+
+item.ring.name=Ring
+item.small_ring.name=Small Ring
+item.big_ring.name=Big Ring
+
+item.legendarium_bow.name=Legendarium Bow
+item.backpack.name=Backpack
+
+
+
+tile.amethyst_ore.name=Amethyst Ore
+tile.amethyst_block.name=Amethyst Block
+
+tile.titane_ore.name=Titane Ore
+tile.titane_block.name=Titane Block
+
+tile.legendarium_ore.name=Legendarium Ore
+tile.legendarium_block.name=Legendarium Block
+
+tile.ultimate_block.name=Ultimate Block
+
+tile.energium_ore.name=Energium Ore
+tile.energium_block.name=Energium Block
+
+tile.invisible_block.name=Invisible Block
+tile.cave_block.name=Cave Block
+tile.guard_block.name=Guard Block
+tile.guard_keeper.name=Guard Keeper
+
+tile.amethyst_mystery_box.name=Amethyst Mystery Box
+tile.titane_mystery_box.name=Titane Mystery Box
+tile.legendarium_mystery_box.name=Legendarium Mystery Box
+tile.ultimate_mystery_box.name=Ultimate Mystery Box
+
+tile.blue_obsidian.name=Blue Obsidian
+tile.orange_obsidian.name=Orange Obsidian
+tile.red_obsidian.name=Red Obsidian
+tile.wiwi_obsidian.name=Wiwi Obsidian
+tile.black_obsidian.name=Black Obsidian
+tile.amethyst_pik_obsidian.name=Amethyst Pik Obsidian
+tile.titane_pik_obisidan.name=Titane Pik Obsidian
+tile.legendarium_pik_obisidan.name=Legendarium Pik Obsidian
+tile.poisonous_obsidian.name=Poisonous Obsidian
+tile.green_obsidian.name=Green Obsidian
+
+tile.legendarium_machine.name=Legendarium Machine
+tile.bow_machine.name=Bow Machine
+
+tile.legendarium_grinder.name=Legendarium Grinder
+tile.grinder_casing.name=Grinder Casing
+tile.grinder_frame.name=Grinder Frame
+
+tile.wood_spike.name=Wood Spike
+tile.iron_spike.name=Iron Spike
+tile.diamond_spike.name=Diamond Spike
+tile.amethyst_spike.name=Amethyst Spike
+tile.titane_spike.name=Titane Spike
+tile.legendarium_spike.name=Legendarium Spike
+
+tile.slime_pad.name=Slime Pad
+tile.web.name=Web
+
+tile.obsidian_slab.name=Obsidian Slab
+tile.obsidian_door.name=Obsidian Door
+
+item.supercalculator.name=SuperCalculator
+nextmod.container.backpack=Backpack
